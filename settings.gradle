@@ -29,4 +29,3 @@ include 'stirling-pdf', 'common', 'proprietary'
 
 project(':stirling-pdf').projectDir = file('app/core')
 project(':common'      ).projectDir = file('app/common')
-project(':proprietary' ).projectDir = file('app/proprietary')
